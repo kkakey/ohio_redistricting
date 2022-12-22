@@ -1,1 +1,1 @@
-# lets_predict
+# Ohio redistricting project
